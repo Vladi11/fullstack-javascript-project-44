@@ -1,0 +1,20 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "Hexlet проект: Игры разума (JS)",
+  "homepage": "https://github.com/Vladi11/fullstack-javascript-project-44#readme",
+  "bugs": {
+    "url": "https://github.com/Vladi11/fullstack-javascript-project-44/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vladi11/fullstack-javascript-project-44.git"
+  },
+  "license": "ISC",
+  "author": "Vladislav Titarenko",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
