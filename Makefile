@@ -1,11 +1,15 @@
 install: # Установить зависимости проекта «с нуля» (на основе package-lock.json)
 	npm ci
 
-brain-games: # Запустить исполняемый файл игры
-	node bin/brain-games.js
+brain-games: # Запустить "входной" исполняемый файл
+	node bin/brain-games.jsц
 
-publish: # Протестировать публикацию пакета (без реальной отправки в npm)
+brain-even: # Запустить исполняемый файл игры "Проверка на чётность"
+	node bin/brain-even.js
+
+publish: # Протестировать публикацию пакета и установить пакет в систему (без реальной отправки в npm)
 	npm publish --dry-run
+	npm link
 
 lint: # Проверить код линтером (oxlint) и форматтером (oxfmt) на наличие ошибок
 	npx oxlint && npx oxfmt --check
