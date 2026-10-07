@@ -1,8 +1,23 @@
 install: # Установить зависимости проекта
 	npm ci
 
-brain-games: # Запустить исполняемый файл
+brain-games: # Запустить "Знакомство"
 	node bin/brain-games.js
+
+brain-even: # Запустить игру "Проверка на чётность"
+	node bin/brain-even.js
+
+brain-calc: # Запустить игру "Калькулятор"
+	node bin/brain-calc.js
+
+brain-gcd: # Запустить игру "НОД"
+	node bin/brain-gcd.js
+
+brain-progression: # Запустить игру "Арифметическая прогрессия"
+	node bin/brain-progression.js
+
+brain-prime: # Запустить игру "Простое ли число?"
+	node bin/brain-prime.js
 
 publish: # Протестировать публикацию пакета (без реальной отправки в npm) и установить пакет в систему
 	npm publish --dry-run
