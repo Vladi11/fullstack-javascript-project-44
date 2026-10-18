@@ -23,6 +23,9 @@ publish: # Протестировать публикацию пакета (бе�
 	npm publish --dry-run
 	npm link
 
+link: # Установить пакет в систему
+	npm link
+
 lint: # Проверить код линтером (oxlint) и форматтером (oxfmt) на наличие ошибок
 	npx oxlint && npx oxfmt --check
 

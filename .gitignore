@@ -1,1 +1,14 @@
-node_modules
+# Зависимости
+node_modules/
+
+# Логи и отладочные файлы
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Настройки редакторов и IDE
+.idea/
+.vscode/
+*.swp
+*.swo
