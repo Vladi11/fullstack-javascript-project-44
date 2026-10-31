@@ -1,6 +1,12 @@
 install: # Установить зависимости проекта
 	npm ci
 
+test:
+	npm test
+
+test-coverage:
+	npm run test:coverage
+
 brain-games: # Запустить "Знакомство"
 	node bin/brain-games.js
 

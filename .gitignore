@@ -1,5 +1,6 @@
 # Зависимости
 node_modules/
+coverage/
 
 # Логи и отладочные файлы
 npm-debug.log*
