@@ -74,7 +74,7 @@ brain-even
 
 Демонстрация игрового процесса (успешное и неудачное прохождение):
 
-[![asciicast](https://asciinema.org/a/UfOwlu1tQf9o1R5Y.svg)](https://asciinema.org/a/UfOwlu1tQf9o1R5Y)
+[![Демонстрация игры «Проверка на чётность»](assets/asciinema/brain-even.svg)](https://asciinema.org/a/UfOwlu1tQf9o1R5Y)
 
 ---
 
@@ -89,7 +89,7 @@ brain-calc
 
 Демонстрация игрового процесса (успешное и неудачное прохождение):
 
-[![asciicast](https://asciinema.org/a/HYAAnSJ4vn2qN7k8.svg)](https://asciinema.org/a/HYAAnSJ4vn2qN7k8)
+[![Демонстрация игры «Калькулятор»](assets/asciinema/brain-calc.svg)](https://asciinema.org/a/HYAAnSJ4vn2qN7k8)
 
 ---
 
@@ -104,7 +104,7 @@ brain-gcd
 
 Демонстрация игрового процесса (успешное и неудачное прохождение):
 
-[![asciicast](https://asciinema.org/a/aB6DhR81beAwaji4.svg)](https://asciinema.org/a/aB6DhR81beAwaji4)
+[![Демонстрация игры «Наибольший общий делитель»](assets/asciinema/brain-gcd.svg)](https://asciinema.org/a/aB6DhR81beAwaji4)
 
 ---
 
@@ -119,7 +119,7 @@ brain-progression
 
 Демонстрация игрового процесса (успешное и неудачное прохождение):
 
-[![asciicast](https://asciinema.org/a/6exXD1MKySeYtjvG.svg)](https://asciinema.org/a/6exXD1MKySeYtjvG)
+[![Демонстрация игры «Арифметическая прогрессия»](assets/asciinema/brain-progression.svg)](https://asciinema.org/a/6exXD1MKySeYtjvG)
 
 ---
 
@@ -134,7 +134,7 @@ brain-prime
 
 Демонстрация игрового процесса (успешное и неудачное прохождение):
 
-[![asciicast](https://asciinema.org/a/SeAfCBIPJ3himvLE.svg)](https://asciinema.org/a/SeAfCBIPJ3himvLE)
+[![Демонстрация игры «Простое ли число?»](assets/asciinema/brain-prime.svg)](https://asciinema.org/a/SeAfCBIPJ3himvLE)
 
 ## Разработка и проверка кода
 
